@@ -1,0 +1,222 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/filter_image.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/harris_image.cpp
+cstdlib
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+cassert
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+matrix.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/load_image.cpp
+cstdio
+-
+cstdlib
+-
+string
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+stb_image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/stb_image.h
+stb_image_write.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/stb_image_write.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cassert
+-
+cmath
+-
+algorithm
+-
+thread
+-
+random
+-
+matrix.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+cassert
+-
+cstdlib
+-
+cstring
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/panorama_image.cpp
+cstdlib
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+cassert
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+matrix.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+set
+-
+thread
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/process_image.cpp
+cstdio
+-
+cstring
+-
+cassert
+-
+cmath
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/resize_image.cpp
+cmath
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+cmath
+-
+iostream
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/stb_image.h
+stb_image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/stb_image_write.h
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+random
+-
+

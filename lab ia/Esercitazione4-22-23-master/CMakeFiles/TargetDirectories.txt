@@ -1,0 +1,9 @@
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/rebuild_cache.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/test1.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/uwimg++.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/test2.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/test4.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/edit_cache.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/CMakeFiles/make-panorama.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/opencv/CMakeFiles/rebuild_cache.dir
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/opencv/CMakeFiles/edit_cache.dir

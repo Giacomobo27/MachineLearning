@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+matrix.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+cassert
+-
+cstdlib
+-
+cstring
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/test/test4.cpp
+../image.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/image.h
+../utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+../matrix.h
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/matrix.h
+string
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/Esercitazione4-22-23-master/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+random
+-
+

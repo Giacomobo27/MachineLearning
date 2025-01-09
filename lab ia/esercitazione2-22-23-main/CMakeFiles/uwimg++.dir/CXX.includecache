@@ -1,0 +1,144 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/filter_image.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+eigen3/Eigen/Core
+-
+iostream
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/utils.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/load_image.cpp
+cstdio
+-
+cstdlib
+-
+string
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+stb_image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/stb_image.h
+stb_image_write.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/stb_image_write.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/process_image.cpp
+cstdio
+-
+cstring
+-
+cassert
+-
+cmath
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/resize_image.cpp
+cmath
+-
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/stb_image.h
+stb_image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/stb_image_write.h
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/utils.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+utils.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/utils.h
+image.h
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/image.h
+
+/home/biar/Desktop/backupVM/Lab IAGI/esercitazione2-22-23-main/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+
